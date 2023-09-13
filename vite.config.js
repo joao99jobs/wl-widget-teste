@@ -22,5 +22,5 @@ export default defineConfig({
       },
     },
   },
-  base: "https://cdn.jsdelivr.net/gh/tony19-sandbox/vite-react-single-js-file/dist/",
+  base: "./",
 })
